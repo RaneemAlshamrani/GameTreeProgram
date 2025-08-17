@@ -1,0 +1,96 @@
+	Welcome to Game Tree Program
+	---------------------------------------------------------
+The players existed in the game are:
+
+       PlayerID         Player Name      Stamina level
+---------------------------------------------------
+	78		pumpkin_pie		15	
+	34		cute_kitty		15	
+	13		Precious		15	
+	18		blossom		15	
+	52		cool_guy		15	
+	86		hummingbird		15	
+	88		dragon_flames		15	
+	95		MasterCheif		15	
+===================================================================================================
+
+Number of players : 8
+===================================================================================================
+
+Player with ID <13> is <Precious> and the stamina level is <15>
+===================================================================================================
+
+Not found any player with ID number <77>
+===================================================================================================
+
+The players existed in the game are:
+
+       PlayerID         Player Name      Stamina level
+---------------------------------------------------
+	78		pumpkin_pie		15	
+	34		cute_kitty		15	
+	13		Precious		15	
+	18		blossom		15	
+	52		cool_guy		15	
+	64		sugar		15	
+	86		hummingbird		15	
+	88		dragon_flames		15	
+	95		MasterCheif		15	
+===================================================================================================
+
+The player <blossom> left the game
+===================================================================================================
+
+Not found any player with ID number <22>
+===================================================================================================
+
+The players existed in the game are:
+
+       PlayerID         Player Name      Stamina level
+---------------------------------------------------
+	78		pumpkin_pie		15	
+	34		cute_kitty		15	
+	13		Precious		15	
+	52		cool_guy		15	
+	64		sugar		15	
+	86		hummingbird		15	
+	88		dragon_flames		15	
+	95		MasterCheif		15	
+===================================================================================================
+
+The player <cute_kitty> received a hit and the stamina level reduced by 5
+===================================================================================================
+
+The player <sugar> received a hit and the stamina level reduced by 5
+===================================================================================================
+
+The player <Precious> received a hit and the stamina level reduced by 5
+===================================================================================================
+
+The player <cute_kitty> received a hit and the stamina level reduced by 5
+===================================================================================================
+
+The stamina level for the player <cute_kitty> reaches zero and <cute_kitty> left the game!
+===================================================================================================
+
+Not found any player with ID number <44>
+===================================================================================================
+
+The players existed in the game are:
+
+       PlayerID         Player Name      Stamina level
+---------------------------------------------------
+	78		pumpkin_pie		15	
+	13		Precious		10	
+	52		cool_guy		15	
+	64		sugar		10	
+	86		hummingbird		15	
+	88		dragon_flames		15	
+	95		MasterCheif		15	
+===================================================================================================
+
+
+
+		-------------------------------------
+		|         Good Bye                 |
+		-------------------------------------
